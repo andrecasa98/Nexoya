@@ -1,3 +1,3 @@
 # Nexoya
 
-Data Science project to predict future sales through XGBoost (Python, Pandas, Sklearn)
+Data Science project to predict future sales with XGBoost (Python, Pandas, Sklearn)
